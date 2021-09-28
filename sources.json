@@ -1,0 +1,106 @@
+{
+    "Clock Tower v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_006.map",
+        "map_md5": "1ddc563886dccb52c6494622c4e7f774",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/239_00.wmv",
+        "vid_md5": "a17fabdf9f5172ea7455b2c2488b1486",
+        "Description": "Released Version",
+        "Cartographer": "Atlus"
+    },
+    "Inquisition v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_004.map",
+        "map_md5": "b947a512f9e3220d9a4b9f1f37cbedcc",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/237_00.wmv",
+        "vid_md5": "73dd531c3261f8bb845f7280223e53a4",
+        "Description": "Released Version",
+        "Cartographer": "Atlus"
+    },
+    "Inquisition Full Body v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_004_fb.map",
+        "map_md5": "3d1a72dd172522dfcc853befd73651c5",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/237_00_fb.wmv",
+        "vid_md5": "f43d607eb601e2bf4db6807ea177fb34",
+        "Description": "Backported from Full Body",
+        "Cartographer": "Atlus"
+    },
+    "Prison of Despair v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_002.map",
+        "map_md5": "2effb9b47e6dea808ee7da27fa3034ba",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/235_00.wmv",
+        "vid_md5": "d04bab09605e4f9725a7ea8abaf09bad",
+        "Description": "Released Version",
+        "Cartographer": "Atlus"
+    },
+    "Prison of Despair v2": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_002_v2.map",
+        "map_md5": "a81fd980876941acb528d59a26f148b3",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/235_00_v2.wmv",
+        "vid_md5": "1d4773360f61d8bf153e40ca7094b87f",
+        "Description": "Bottom has been changed to immovable blocks",
+        "Cartographer": "Shas"
+    },
+    "Prison of Despair v3": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_002_v3.map",
+        "map_md5": "1f1cc38f96a1ce1104fb04984cce7294",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/235_00_v3.wmv",
+        "vid_md5": "c7bfbed2c0d8d161a03e9736bb5b2f07",
+        "Description": "Opening has been completely reworked",
+        "Cartographer": "Shas"
+    },
+    "Quadrangle v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_005.map",
+        "map_md5": "da3c9fe24d71cfbc33a08e6a67728a88",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/238_00.wmv",
+        "vid_md5": "2f8adac5870be3e7d1c11499dead9a88",
+        "Description": "Released Version",
+        "Cartographer": "Atlus"
+    },
+    "Spiral Corridor v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_007.map",
+        "map_md5": "d600ba41a58f138520e8b98a95818a59",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/240_00.wmv",
+        "vid_md5": "5b0b3839f8445b0d141b1e12443fce97",
+        "Description": "Released Version",
+        "Cartographer": "Atlus"
+    },
+    "The Cathedral v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_008.map",
+        "map_md5": "8ae2c5cdd7632054604d98f43b6d4c27",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/241_00.wmv",
+        "vid_md5": "5a38fb9313149516b5031b7c290b6928",
+        "Description": "Released Version",
+        "Cartographer": "Atlus"
+    },
+    "The Empireo v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_009.map",
+        "map_md5": "84ebad5f5127f9105f527314e280cee6",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/242_00.wmv",
+        "vid_md5": "033d6f5da2127d4f3f8ef4e4faff87ca",
+        "Description": "Released Version",
+        "Cartographer": "Atlus"
+    },
+    "Torture Chamber v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_003.map",
+        "map_md5": "5aa12f75b77ca87631816974098606f7",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/236_00.wmv",
+        "vid_md5": "c97218d1cd88b68786f75a10669e8fd2",
+        "Description": "Released Version",
+        "Cartographer": "Atlus"
+    },
+    "Underground Cemetery v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_001.map",
+        "map_md5": "329a732aaf0d247f38d45f1335e51430",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/234_00.wmv",
+        "vid_md5": "6e390d8f412d36c39816b61dc1fb4895",
+        "Description": "Released Version",
+        "Cartographer": "Atlus"
+    },
+    "Unused p10 v1": {
+        "map_url": "https://catherineclassic.s3.amazonaws.com/p013_010.map",
+        "map_md5": "78bb3b9e7fb283af4d8b5d88ca6b5b55",
+        "vid_url": "https://catherineclassic.s3.amazonaws.com/l10.wmv",
+        "vid_md5": "3811ab8a968f0366d40f2e77d9f1f2eb",
+        "Description": "Provided in the game files, but unused.",
+        "Cartographer": "Atlus"
+    }
+}

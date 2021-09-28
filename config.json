@@ -1,0 +1,15 @@
+{
+    "steam_path": "D:\\SteamLibrary\\steamapps\\common\\CatherineClassic",
+    "download_dir": "D:\\Downloads",
+    "levels": {
+        "1": "Underground Cemetery v1",
+        "2": "Prison of Despair v1",
+        "3": "Torture Chamber v1",
+        "4": "Inquisition v1",
+        "5": "Quadrangle v1",
+        "6": "Clock Tower v1",
+        "7": "Spiral Corridor v1",
+        "8": "The Cathedral v1",
+        "9": "The Empireo v1"
+    }
+}
